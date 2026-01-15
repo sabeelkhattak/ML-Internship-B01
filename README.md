@@ -56,7 +56,7 @@ Run Python scripts or open Jupyter notebooks according to the week.
 ### Week 2 – Titanic Dataset Visualizations
 
 **Line Plot – Age Distribution**  
-![Line Plot](week2-practice/visualizations/line_plot.png)
+![Line Plot](week2-practice/../visualizations/line_plot.png)
 
 **Scatter Plot – Age vs Fare**  
 ![Scatter Plot](visualizations/scatter_plot.png)
@@ -65,7 +65,7 @@ Run Python scripts or open Jupyter notebooks according to the week.
 ![Histogram](visualizations/histogram.png)
 
 **Bar Chart – Survival Rate**  
-![Bar Chart](visualizations/bar_chart.png)
+![Bar Chart](visualizations/../bar_chart.png)
 
 **Box Plot – Fare by Passenger Class**  
 ![Box Plot](visualizations/box_plot.png)
